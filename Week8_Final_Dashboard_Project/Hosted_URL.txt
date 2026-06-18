@@ -1,5 +1,5 @@
-## Live Demo
+Live Demo
 https://zynxisdashboard.vercel.app
 
-## GitHub Repository
+GitHub Repository
 https://github.com/rashid1351/zynxis-internship-muhammad-rashid-azam
