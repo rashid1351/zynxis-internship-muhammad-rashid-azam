@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:2563eb,100:06b6d4&text=RASHID%20AZAM&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Web%20Developer%20%7C%20Technology%20Enthusiast&descAlignY=55&descSize=19&animation=fadeIn" width="100%" alt="Rashid Azam Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:2563eb,100:06b6d4&text=M.RASHID%20AZAM&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Web%20Developer%20%7C%20Technology%20Enthusiast&descAlignY=55&descSize=19&animation=fadeIn" width="100%" alt="Rashid Azam Header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=950&lines=FRONTEND+DEVELOPER+%F0%9F%92%BB;REACT+%7C+JAVASCRIPT+%7C+TYPESCRIPT+%E2%9A%9B%EF%B8%8F;MODERN+WEB+%26+RESPONSIVE+UI+ENGINEER+%F0%9F%8E%A8;API+INTEGRATION+%7C+STATE+MANAGEMENT+%7C+PERFORMANCE+%E2%9A%A1;AI+%26+AUTOMATION+ENTHUSIAST+%F0%9F%A4%96;ZYNXIS+FRONTEND+DEVELOPMENT+INTERN+%F0%9F%9A%80;BUILDING+DIGITAL+PRODUCTS+THAT+MATTER+%E2%9C%A8" alt="Typing Animation"/>
 
@@ -39,14 +39,14 @@
 
 ---
 
-# 👨‍💻 RASHID AZAM — DEVELOPER PROFILE
+# 👨‍💻 M. RASHID AZAM — DEVELOPER PROFILE
 
 <div align="center">
 
 ```text
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║                         👨‍💻 RASHID AZAM                         ║
+║                        👨‍💻 M. RASHID AZAM                         ║
 ║                                                                  ║
 ║                    FRONTEND DEVELOPER                            ║
 ║                                                                  ║
@@ -67,7 +67,7 @@
 
 ## 👤 Identity
 
-* **Name:** Rashid Azam
+* **Name:** M. Rashid Azam
 * **GitHub:** `rashid1351`
 * **Primary Role:** Frontend Developer
 * **Specialization:** Modern Web Development
@@ -160,7 +160,7 @@ It is about combining:
 
 ```javascript
 const rashidAzam = {
-    name: "Rashid Azam",
+    name: "M.Rashid Azam",
     username: "rashid1351",
 
     role: "Frontend Developer",
@@ -919,17 +919,6 @@ The journey continues beyond this internship.
 
 ---
 
-# 🐍 SNAKE ANIMATION WORKFLOW SETUP
-
-The animated contribution snake at the top of this README isn't automatic by default — it needs a one-time GitHub Actions setup on the `rashid1351/rashid1351` profile repository:
-
-1. In that repo, create `.github/workflows/snake.yml`
-2. Paste the standard `Platane/snk` action config targeting `github-contribution-grid-snake-dark.svg`
-3. Set the workflow to run on a schedule (e.g. every 12 hours) and on push
-4. Push once to generate the first `output` branch
-5. The `<img>` tag above will then render live automatically
-
----
 
 # 🌐 PORTFOLIO
 
@@ -968,7 +957,7 @@ The animated contribution snake at the top of this README isn't automatic by def
 ║                                                          ║
 ║                 🚀 ZYNXIS INTERNSHIP                     ║
 ║                                                          ║
-║                    👨‍💻 RASHID AZAM                       ║
+║                   👨‍💻M. RASHID AZAM                       ║
 ║                                                          ║
 ║                 FRONTEND DEVELOPER                       ║
 ║                                                          ║
