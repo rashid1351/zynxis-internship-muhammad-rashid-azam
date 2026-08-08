@@ -25,24 +25,17 @@
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=for-the-badge" alt="Completed"/>
 
 <br><br>
-
+---
+---
 ### ⚡ BUILDING • LEARNING • ENGINEERING • INNOVATING
 
 > **"Don't just write code. Build experiences, solve problems, and create something people can use."**
 
 </div>
 
----
 
-<div align="center">
 
-## 🐍 CONTRIBUTION SNAKE
 
-<img src="https://raw.githubusercontent.com/rashid1351/rashid1351/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
-
-<sub>⚙️ Auto-generated nightly via GitHub Actions — see <a href="#-snake-animation-workflow-setup">setup instructions</a> below.</sub>
-
-</div>
 
 ---
 
